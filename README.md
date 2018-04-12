@@ -1,5 +1,5 @@
 # Crawler_Infojobs
-Crawler simples com raspagem da vagas de programador no site www.infojobs.com.br
+Crawler simples com raspagem de vagas de programador no site www.infojobs.com.br
 
 ### Executando o exemplo:
 
@@ -8,7 +8,7 @@ Crawler simples com raspagem da vagas de programador no site www.infojobs.com.br
 git clone https://github.com/jhonatanlteodoro/Crawler_Infojobs.git
 ```
 
-- Crie um ambiente virtual com Python3 e ative ele seguida(Exemplo usando VirtualEnv)
+- Crie um ambiente virtual com Python3 e ative ele em seguida(Exemplo usando VirtualEnv)
 ```
 virtualenv -p python3 venv
 source venv/bin/activate
